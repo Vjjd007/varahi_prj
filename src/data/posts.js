@@ -2832,9 +2832,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#6d2b1f',
     heroAccent: '#d4a43c',
 
@@ -3008,9 +3008,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#7b2d26',
     heroAccent: '#d8a63d',
 
@@ -3184,9 +3184,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#74281c',
     heroAccent: '#d9a441',
 
@@ -3350,9 +3350,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#7a1f1f',
     heroAccent: '#d9a441',
     title: {
@@ -3496,9 +3496,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#7b2d20',
     heroAccent: '#d8a53d',
 
@@ -3702,9 +3702,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#7a2c1f',
     heroAccent: '#d7a43f',
 
@@ -3938,9 +3938,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Festival',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
 
     heroColor: '#7b2d1e',
     heroAccent: '#d9a441',
@@ -4215,9 +4215,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#8b2f1c',
     heroAccent: '#d9a441',
     title: {
@@ -4361,9 +4361,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#7d2f1f',
     heroAccent: '#d8a63d',
     title: {
@@ -4625,9 +4625,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#8c2f24',
     heroAccent: '#e0a93b',
     title: {
@@ -4771,9 +4771,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#6b2c1d',
     heroAccent: '#d4a437',
     title: {
@@ -4901,9 +4901,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#8b3a2b',
     heroAccent: '#e0b24a',
     title: {
@@ -5023,9 +5023,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#8b2e1f',
     heroAccent: '#d9a441',
     title: {
@@ -5161,9 +5161,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#7a2d20',
     heroAccent: '#d9a53f',
     title: {
@@ -5331,9 +5331,9 @@ export const posts = [
         type: 'hero'
       }
     ],
-    year: '2026',
+    year: '2024',
     category: 'Education & Spiritual',
-    date: { en: '12 May 2026', ta: '12 மே 2026' },
+    date: { en: '12 May 2024', ta: '12 மே 2024' },
     heroColor: '#8b5e34',
     heroAccent: '#d4af37',
     title: {
