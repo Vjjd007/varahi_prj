@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import { useLang } from '../context/LangContext';
 import { posts } from '../data/posts';
 import YearFilter from '../components/YearFilter';
-import fallbackImg from '../assets/images/img-1.jpg';
 
 const CATEGORY_COLORS = {
   Awards: '#1a3a5c',
@@ -13,25 +12,22 @@ const CATEGORY_COLORS = {
   Environment: '#0a3d62',
 };
 
-const FALLBACK_CARD_IMAGE = fallbackImg;
+const FALLBACK_CARD_IMAGE = `${import.meta.env.BASE_URL}blog-img/img-1.jpg`;
+
+function getBlogImagePath(imageName) {
+  return `${import.meta.env.BASE_URL}blog-img/${imageName}`;
+}
 
 function getCardImage(post) {
-
   if (
     post.images &&
     Array.isArray(post.images) &&
     post.images.length > 0
   ) {
-
-    return new URL(
-      `../assets/images/${post.images[0].src}`,
-      import.meta.url
-    ).href;
-
+    return getBlogImagePath(post.images[0].src);
   }
 
   return FALLBACK_CARD_IMAGE;
-
 }
 export default function BlogList() {
   const { lang, setLang, t } = useLang();

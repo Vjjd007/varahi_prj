@@ -3,12 +3,7 @@ import { useLang } from '../context/LangContext';
 import { posts } from '../data/posts';
 
 function getImagePath(imageName) {
-
-  return new URL(
-    `../assets/images/${imageName}`,
-    import.meta.url
-  ).href;
-
+  return `${import.meta.env.BASE_URL}blog-img/${imageName}`;
 }
 
 // Get all images for a post

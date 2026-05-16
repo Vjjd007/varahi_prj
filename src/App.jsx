@@ -15,6 +15,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<BlogList />} />
             <Route path="/blog/:slug" element={<BlogPost />} />
+            <Route path="*" element={<BlogList />} />
           </Routes>
         </main>
         <Footer />
