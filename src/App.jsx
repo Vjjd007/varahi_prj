@@ -8,7 +8,7 @@ import BlogPost from './blog_pages/BlogPost';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <LangProvider>
         <Navbar />
         <main>
